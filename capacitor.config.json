@@ -1,0 +1,6 @@
+{
+  "appId": "com.kumo.app",
+  "appName": "kumo",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
