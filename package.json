@@ -12,8 +12,10 @@
     "lintfix": "yarn lint:js --fix"
   },
   "dependencies": {
+    "@capacitor/android": "^3.4.0",
     "@capacitor/cli": "^3.4.0",
     "@capacitor/core": "^3.4.0",
+    "@capacitor/ios": "^3.4.0",
     "@nuxtjs/axios": "^5.13.6",
     "core-js": "^3.19.3",
     "nuxt": "^2.15.8",
